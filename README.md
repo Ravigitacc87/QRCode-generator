@@ -8,7 +8,7 @@ A simple and customizable QR Code Generator built with HTML, Tailwind CSS, and J
 
 ## Visit
 
-You can try the live demo here: [QR Code Generator](https://yourusername.github.io/QRCode-generator)  
+You can try the live demo here: [QR Code Generator](https://ravigitacc87.github.io/QRCode-generator/)  
 *(Replace this URL with the actual link to your GitHub Pages site or hosting location)*
 
 ## Features
